@@ -27,7 +27,7 @@
 **Link to work:** [A4T Accounting App](http://github.com/williwambu/A4T-Accounting)
 
 
-### Day 1: January 1, 2017
+### Day 1: January 4, 2017
 
 **Today's Progress**: Continued working on the REST APIs for accounting application
 
