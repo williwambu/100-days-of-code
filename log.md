@@ -25,3 +25,12 @@
 **Thoughts**: I found Angular material to consist of good components to help build the front end. I hope it is a good choice
 
 **Link to work:** [A4T Accounting App](http://github.com/williwambu/A4T-Accounting)
+
+
+### Day 1: January 1, 2017
+
+**Today's Progress**: Continued working on the REST APIs for accounting application
+
+**Thoughts**: I am happy with the progress I am making on the project.
+
+**Link to work:** [A4T Accounting App](http://github.com/williwambu/A4T-Accounting)
